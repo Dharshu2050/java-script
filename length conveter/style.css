@@ -1,0 +1,35 @@
+body{
+    /* color: rgb(224, 134, 23); */
+    background-color: burlywood;
+    position: fixed;
+}
+#wrapper{
+    /* border: 5px solid black; */
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right:350px;
+    margin-bottom: 100px;
+    padding: 200px;
+    width: fit-content;
+
+    background-color: rgb(247, 175, 86);
+    text-align: center;
+   
+   
+    
+}
+
+#input{
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-color: solid black;
+}
+#button{
+    padding-bottom: 5px;
+}
+#result{
+    margin-top: 10px;
+}
+

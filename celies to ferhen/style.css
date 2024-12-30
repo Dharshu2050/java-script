@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+}
+
+.container{
+    background-color: antiquewhite;
+    margin: 250px;
+    margin-bottom: 100px;
+    padding: 150px;
+    width: auto;
+    position: absolute;
+    border-radius: 15px;
+    box-shadow:inset;
+}
+
+#input{
+    border-radius: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    
+}
+#button{
+    text-align: center;
+    border: solid goldenrod;
+}
